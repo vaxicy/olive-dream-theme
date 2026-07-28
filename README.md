@@ -34,6 +34,8 @@ Olive Dream is inspired by nature, slow living and cozy creative workspaces. It 
 
 ## Installation
 
+📦 **Marketplace:** [Olive Dream Theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.olive-dream-theme)
+
 ### From the VS Code Marketplace
 1. Open **Extensions** (`Ctrl/Cmd + Shift + X`).
 2. Search for **Olive Dream Theme**.
