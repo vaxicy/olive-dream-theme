@@ -16,6 +16,7 @@ Olive Dream is inspired by nature, slow living and cozy creative workspaces. It 
 
 ## Features
 
+- **Two calm variants** — **Olive Dream** (soft light) and **Olive Dream Dark** (deep olive‑charcoal), sharing the same natural sage/olive palette.
 - **Soft cream‑green editor** (`#F8F6EA`) — easy on the eyes during long sessions, never pure white.
 - **Cohesive natural palette** — sage, olive and cream across the entire workbench (Activity Bar, Side Bar, Panel, Status Bar).
 - **Calm syntax highlighting** tuned for readability:
@@ -52,8 +53,8 @@ For the full Olive Dream experience, pair with a soft UI font (e.g. *Cascadia Co
 
 ## Marketplace description
 
-> **Olive Dream Theme** — a calm, natural, premium sage‑green theme for VS Code.
-> Designed for creative developers, AI builders and designers who want a quiet, focused and comfortable coding environment. Soft cream‑green editor, muted olive accents, and carefully tuned syntax colors for JS, TS, React, HTML, CSS, JSON and Python.
+> **Olive Dream Theme** — a calm, natural, premium sage‑green theme for VS Code, available in **Light** and **Dark** variants.
+> Designed for creative developers, AI builders and designers who want a quiet, focused and comfortable coding environment. Soft cream‑green editor (or deep olive‑charcoal in Dark), muted olive accents, and carefully tuned syntax colors for JS, TS, React, HTML, CSS, JSON and Python.
 
 ---
 
