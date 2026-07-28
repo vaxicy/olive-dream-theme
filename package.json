@@ -1,0 +1,46 @@
+{
+  "name": "olive-dream-theme",
+  "displayName": "Olive Dream Theme",
+  "description": "A calm, natural, premium sage-green VS Code theme for creative developers, AI builders and designers.",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "icon": "./icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "olive",
+    "sage",
+    "green",
+    "minimal",
+    "calm",
+    "designer"
+  ],
+  "galleryBanner": {
+    "color": "#89986D",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/vaxicy/olive-dream-theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/olive-dream-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vaxicy/olive-dream-theme/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Olive Dream",
+        "uiTheme": "vs",
+        "path": "./themes/olive-dream-color-theme.json"
+      }
+    ]
+  }
+}
