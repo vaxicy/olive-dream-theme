@@ -1,5 +1,7 @@
 # Olive Dream Theme
 
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/lilinhuang.olive-dream-theme?label=Olive%20Dream%20Theme&color=89986D&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=lilinhuang.olive-dream-theme)
+
 > A calm, natural, premium sage‑green Visual Studio Code theme for creative developers, AI builders and designers.
 
 Olive Dream is inspired by nature, slow living and cozy creative workspaces. It pairs a soft cream‑green editor surface with muted olive and sage accents, giving you a **calm, focused, creative and comfortable** coding experience — without the harsh pure‑white backgrounds or loud, high‑saturation greens.
@@ -8,9 +10,13 @@ Olive Dream is inspired by nature, slow living and cozy creative workspaces. It 
 
 ## Preview
 
-![Olive Dream Theme](./screenshots/olive-dream-preview.png)
+### Light
 
-> Screenshot placeholder: drop a full‑editor capture named `screenshots/olive-dream-preview.png` here to showcase the theme on the Marketplace.
+![Olive Dream Theme - Light](./screenshots/olive-dream-light.png)
+
+### Dark
+
+![Olive Dream Theme - Dark](./screenshots/olive-dream-dark.png)
 
 ---
 
