@@ -6,6 +6,6 @@ src/**
 .gitignore
 tsconfig.json
 scripts/
-screenshots/
 node_modules/
 *.log
+.codebuddy/
